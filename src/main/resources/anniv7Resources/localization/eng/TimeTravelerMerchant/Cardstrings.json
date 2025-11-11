@@ -1,0 +1,202 @@
+{
+    "${ModID}:GoldAxe": {
+        "NAME": "Gold Axe",
+        "DESCRIPTION": "Deal damage equal to the number of cards played this combat. NL Exhaust.",
+        "EXTRA_DESCRIPTION": "(Deals !D! damage.)"
+    },
+
+    "${ModID}:Fasten": {
+        "NAME": "Fasten",
+        "DESCRIPTION": "Defend cards gain !M! additional Block when played."
+    },
+
+    "${ModID}:Bully": {
+        "NAME": "Bully",
+        "DESCRIPTION": "Deal !D! damage. NL Deal !M! additional damage for each Vulnerable on the enemy."
+    },
+
+    "${ModID}:Aggression": {
+        "NAME": "Aggression",
+        "DESCRIPTION": "At the start of your turn, put a random Attack from your *Discard *Pile into your *Hand and Upgrade it."
+    },
+
+    "${ModID}:Cinder": {
+        "NAME": "Cinder",
+        "DESCRIPTION": "Deal !D! damage. NL Exhaust the top 2 cards in your *Draw *Pile."
+    },
+
+    "${ModID}:Scourge": {
+        "NAME": "Scourge",
+        "DESCRIPTION": "Apply !M! KEYWORD:Doom."
+    },
+
+    "${ModID}:Unrelenting": {
+        "NAME": "Unrelenting",
+        "DESCRIPTION": "Deal !D! damage. NL Your next Attack you play costs 0."
+    },
+
+    "${ModID}:BloodWall": {
+        "NAME": "Blood Wall",
+        "DESCRIPTION": "Lose !M! HP. NL Gain !B! Block."
+    },
+
+    "${ModID}:Tremble": {
+        "NAME": "Tremble",
+        "DESCRIPTION": "Apply !M! Vulnerable. NL Exhaust."
+    },
+
+    "${ModID}:StoneArmor": {
+        "NAME": "StoneArmor",
+        "DESCRIPTION": "Gain !M! KEYWORD:Plating. NL Lose 1 Dexterity"
+    },
+
+    "${ModID}:Breakthrough": {
+        "NAME": "Breakthrough",
+        "DESCRIPTION": "Lose !M! HP. NL Deal !D! damage to all enemies."
+    },
+
+    "${ModID}:CarveGhost": {
+        "NAME": "Carve Ghost",
+        "DESCRIPTION": "Deal !D! damage. NL Add !M! KEYWORD:Souls into your *Hand."
+    },
+
+    "${ModID}:Putrefy": {
+        "NAME": "Putrefy",
+        "DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Exhaust."
+    },
+
+    "${ModID}:Swipe": {
+        "NAME": "Swipe",
+        "DESCRIPTION": "Deal !D! damage to all enemies. NL If they have KEYWORD:Doom, deal another 5."
+    },
+
+    "${ModID}:Friendship": {
+        "NAME": "Friendship",
+        "DESCRIPTION": "Whenever you play a KEYWORD:Soul, KEYWORD:Summon !M!."
+    },
+
+    "${ModID}:NegativePulse": {
+        "NAME": "Negative Pulse",
+        "DESCRIPTION": "Gain !B! Block. NL Apply !M! KEYWORD:Doom to all enemies."
+    },
+
+    "${ModID}:Fearmonger": {
+        "NAME": "Fearmonger",
+        "DESCRIPTION": "Whenever you apply KEYWORD:Doom this turn, gain !M! Block."
+    },
+
+    "${ModID}:TimesUp": {
+        "NAME": "Time's Up!",
+        "DESCRIPTION": "Deal damage equal to the enemies KEYWORD:Doom. NL Exhaust."
+    },
+
+    "${ModID}:GraveWarden": {
+        "NAME": "Grave Warden",
+        "DESCRIPTION": "Gain !B! Block. NL Add !M! KEYWORD:Soul into your *Hand."
+    },
+
+    "${ModID}:DrainPower": {
+        "NAME": "Drain Power",
+        "DESCRIPTION": "Deal !D! damage. NL Upgrade a card in your *Hand for the rest of combat."
+    },
+
+    "${ModID}:PullAggro": {
+        "NAME": "Pull Aggro",
+        "DESCRIPTION": "Summon !M!. NL Gain !B! Block."
+    },
+
+    "${ModID}:Oblivion": {
+        "NAME": "Oblivion",
+        "DESCRIPTION": "Double the enemy's KEYWORD:Doom. NL Exhaust."
+    },
+
+    "${ModID}:DeathsVisage": {
+        "NAME": "Death's Visage",
+        "DESCRIPTION": "Deal !D! damage. Apply !M! Vulnerable."
+    },
+
+    "${ModID}:FanOfKnifes": {
+        "NAME": "Fan of Knifes",
+        "DESCRIPTION": "*Shivs now hit all enemies. Add !M! *Shivs into your *Hand."
+    },
+
+    "${ModID}:Hellraiser": {
+        "NAME": "Hellraiser",
+        "DESCRIPTION": "Whenever you draw a card containing \"Strike\", it is played against a random enemy."
+    },
+
+    "${ModID}:BlightStrike": {
+        "NAME": "Blight Strike",
+        "DESCRIPTION": "Deal !D! damage. NL Apply KEYWORD:Doom equal to unblocked damage dealt."
+    },
+
+    "${ModID}:Bodyguard": {
+        "NAME": "Bodyguard",
+        "DESCRIPTION": "Summon 5. KEYWORD:Osty deals !M! damage."
+    },
+
+    "${ModID}:BoneShards": {
+        "NAME": "BoneShards",
+        "DESCRIPTION": "if KEYWORD:Osty is alive, he deals !M! damage to ALL enemies and you gain !B! Block. NL KEYWORD:Osty dies."
+    },
+
+    "${ModID}:Neurosurge": {
+        "NAME": "Neurosurge",
+        "DESCRIPTION": "Gain [E] [E] [E] . NL Draw !M! cards. NL At the start of your turn, apply 3 KEYWORD:Doom to yourself."
+    },
+
+    "${ModID}:Soul": {
+        "NAME": "Soul",
+        "DESCRIPTION": "Draw !M! cards. NL Exhaust."
+    },
+
+    "${ModID}:GraveWarden2": {
+        "NAME": "Grave Warden",
+        "DESCRIPTION": "Gain !B! Block. NL Add a KEYWORD:Soul into your *Draw *Pile."
+    },
+
+    "${ModID}:SculptingStrike": {
+        "NAME": "Sculpting Strike",
+        "DESCRIPTION": "Deal !D! damage. NL Add Ethereal to a card in your *Hand."
+    },
+
+    "${ModID}:Transfigure": {
+        "NAME": "Transfigure",
+        "DESCRIPTION": "Add KEYWORD:Replay to a card in your *Hand. NL It costs an extra [E] . NL Exhaust."
+    },
+
+    "${ModID}:ThrummingHatchet": {
+        "NAME": "Thrumming Hatchet",
+        "DESCRIPTION": "Deal !D! damage. NL At the start of your next turn, return this to your *Hand."
+    },
+
+    "${ModID}:RollingBoulder": {
+        "NAME": "Rolling Boulder",
+        "DESCRIPTION": "At the start of your turn, deal !M! damage to all enemies and increase this damage by !M!."
+    },
+
+    "${ModID}:Automation": {
+        "NAME": "Automation",
+        "DESCRIPTION": "Every !M! cards you draw, gain [E] ."
+    },
+
+    "${ModID}:FlickFlack": {
+        "NAME": "Flick-Flack",
+        "DESCRIPTION": "KEYWORD:Sly. NL Deal !D! damage to all enemies."
+    },
+
+    "${ModID}:MasterPlanner": {
+        "NAME": "Master Planner",
+        "DESCRIPTION": "When you play a Skill, it gains KEYWORD:Sly."
+    },
+
+    "${ModID}:Cruelty": {
+        "NAME": "Cruelty",
+        "DESCRIPTION": "Vulnerable enemies take an additional !M!% damage."
+    },
+
+    "${ModID}:Charge": {
+        "NAME": "CHAAARGE",
+        "DESCRIPTION": "Deal damage equal to your Block to all enemies."
+    }
+}

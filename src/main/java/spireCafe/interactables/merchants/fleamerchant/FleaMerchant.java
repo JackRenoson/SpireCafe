@@ -45,8 +45,7 @@ public class FleaMerchant extends AbstractMerchant {
 
     public FleaMerchant(float animationX, float animationY) {
         super(animationX+75.0F * Settings.xScale, animationY-150.0F * Settings.yScale, 320.0f, 400.0f);
-        this.name = characterStrings.NAMES[0];
-        this.authors = "Jack Renoson";
+
         this.img = TexLoader.getTexture(Anniv7Mod.makeMerchantPath("fleamerchant/merchant.png"));
         background = new TextureRegion(BG_TEXTURE);
         this.haggleArticle = new HaggleArticle(this, Settings.WIDTH * 0.75F, 164.0F * Settings.yScale);
